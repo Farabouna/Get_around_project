@@ -1,5 +1,5 @@
-# GetAround project
-## 🚗 GetAround Delay Analysis and Pricing Optimization
+# 🚗 GetAround project
+## Delay Analysis and Pricing Optimization
 
 GetAround is the **Airbnb for cars**, allowing users to rent vehicles for a few hours or days. Founded in **2009**, the platform now boasts over **5 million users** and **20,000 available cars worldwide**.
 
